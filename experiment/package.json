@@ -1,0 +1,11 @@
+{
+  "name": "experiment",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "hititipi": "^0.11.1",
+    "postcss": "^8.4.21"
+  }
+}
